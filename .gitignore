@@ -1,8 +1,12 @@
 # Environment variables
 .env
-
+.png
+formulas/
 # Data folder
 data/
+
+extracted_images/
+
 
 # Python
 __pycache__/
